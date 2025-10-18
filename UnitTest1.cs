@@ -13,8 +13,8 @@
             await Expect(Page).ToHaveTitleAsync(new Regex("Playwright"));
 
             // create a locator
-            var getStarted = Page.Locator("text=Get Started");
-
+            //Second Comment
+            
             // Expect an attribute "to be strictly equal" to the value.
             await Expect(getStarted).ToHaveAttributeAsync("href", "/docs/intro");
 
