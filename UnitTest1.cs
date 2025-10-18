@@ -12,7 +12,11 @@
             // Expect a title "to contain" a substring.
             await Expect(Page).ToHaveTitleAsync(new Regex("Playwright"));
 
+<<<<<<< HEAD
             // I am Aman
+=======
+            // 12345
+>>>>>>> 71a3f6d359951474d52d3c9928c3db7aa1ae2845
             var getStarted = Page.Locator("text=Get Started");
             
             // Expect an attribute "to be strictly equal" to the value.
