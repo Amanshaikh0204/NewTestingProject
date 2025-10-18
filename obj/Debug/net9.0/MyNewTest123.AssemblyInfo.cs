@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNewTest123")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b319af99487cbaa6ac93b6b939697e223e5468")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNewTest123")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNewTest123")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
